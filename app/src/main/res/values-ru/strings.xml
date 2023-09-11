@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AntonApp</string>
+    <string name="main_empty_text">Здоровые привычки \nвместе с <b>Coral Club</b></string>
+    <string name="aut_wellcome_text"><b>Добро пожаловать \nв Coral Club</b></string>
+    <string name="ch_nomber">Номер ЧК</string>
+    <string name="password">Пароль</string>
+    <string name="autorization_password">Забыли пароль?</string>
+    <string name="autorization_button"><b>Войти</b></string>
+    <string name="autorazation_registration_buttom">Зарегистрироваться</string>
+</resources>
